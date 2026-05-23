@@ -1478,3 +1478,7 @@ textarea.form-input {
     text-align: center;
   }
 }
+
+/* --- Glowing Button Micro-interactions --- */
+.btn-primary:hover { box-shadow: 0 0 20px rgba(0, 240, 255, 0.4); transform: translateY(-2px); }
+.btn-secondary:hover { box-shadow: 0 0 20px rgba(157, 78, 221, 0.4); transform: translateY(-2px); }
