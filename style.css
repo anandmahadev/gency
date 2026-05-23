@@ -1478,3 +1478,9 @@ textarea.form-input {
     text-align: center;
   }
 }
+
+/* --- Marquee Animation --- */
+.client-marquee-container { overflow: hidden; background: rgba(255,255,255,0.02); padding: 2rem 0; border-top: 1px solid rgba(255,255,255,0.05); }
+.client-marquee-track { display: flex; gap: 4rem; width: max-content; animation: scrollMarquee 25s linear infinite; }
+.client-logo { font-family: 'Outfit', sans-serif; font-weight: 800; font-size: 1.5rem; letter-spacing: 0.15em; color: var(--text-muted); opacity: 0.5; }
+@keyframes scrollMarquee { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
