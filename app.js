@@ -953,3 +953,29 @@ const faqData = [
   { q: "Do you offer post-launch support?", a: "Yes, we provide elite dedicated support SLA agreements for ongoing design & hosting maintenance." },
   { q: "Can we integrate existing Web3 systems?", a: "Absolutely. We specialize in custom API hookups, Web3 wallets, and reactive metrics dashboards." }
 ];
+
+// FAQ Component Implementation
+const FAQ = () => {
+  const [openIndex, setOpenIndex] = React.useState(null);
+  return (
+    <section id="faq" className="faq-section">
+      <div className="container">
+        <div className="section-header" style={{ textAlign: 'center', marginBottom: '4rem' }}>
+          <div className="badge">Knowledge</div>
+          <h2>Frequently Asked Questions</h2>
+        </div>
+        <div className="faq-grid">
+          {faqData.map((item, idx) => (
+            <div key={idx} className="faq-item glass-panel" onClick={() => setOpenIndex(openIndex === idx ? null : idx)}>
+              <div className="faq-question">
+                <span>{item.q}</span>
+                <span>{openIndex === idx ? 'âˆ’' : '+'}</span>
+              </div>
+              {openIndex === idx && <div className="faq-answer">{item.a}</div>}
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
