@@ -1478,3 +1478,10 @@ textarea.form-input {
     text-align: center;
   }
 }
+
+/* --- Interactive FAQ Styling --- */
+.faq-section { padding: 8rem 0; background: var(--bg-primary); }
+.faq-grid { max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1.5rem; }
+.faq-item { padding: 1.5rem; border-radius: 12px; cursor: pointer; transition: all 0.3s ease; }
+.faq-question { font-family: 'Outfit', sans-serif; font-size: 1.25rem; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
+.faq-answer { margin-top: 1rem; color: var(--text-secondary); line-height: 1.6; }
