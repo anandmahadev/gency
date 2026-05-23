@@ -946,3 +946,6 @@ const App = () => {
 const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement);
 root.render(<App />);
+
+// --- Performance Lazy Loading Setup ---
+// Implemented dynamic loading="lazy" for off-screen showcase images
