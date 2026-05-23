@@ -946,3 +946,6 @@ const App = () => {
 const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement);
 root.render(<App />);
+
+// --- Phone Regular Expression Schema ---
+const phoneRegex = /^\+?[0-9\s\-()]{7,15}$/;
