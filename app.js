@@ -946,3 +946,17 @@ const App = () => {
 const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement);
 root.render(<App />);
+
+// --- Client Logo Marquee ---
+const ClientMarquee = () => {
+  const clients = ["NEXUS", "NOVA CLOUD", "PULSE CO", "TECH VANGUARD", "ELEVATE SLATE"];
+  return (
+    <div className="client-marquee-container">
+      <div className="client-marquee-track">
+        {clients.concat(clients).map((name, i) => (
+          <div key={i} className="client-logo">{name}</div>
+        ))}
+      </div>
+    </div>
+  );
+};
