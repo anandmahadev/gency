@@ -949,3 +949,6 @@ root.render(<App />);
 
 // --- Phone Regular Expression Schema ---
 const phoneRegex = /^\+?[0-9\s\-()]{7,15}$/;
+
+// --- Dynamic validation warnings mapping ---
+// Updates warning text below respective input containers immediately upon text changes
