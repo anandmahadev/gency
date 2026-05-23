@@ -953,3 +953,26 @@ const teamData = [
   { name: "Celia Frost", role: "Principal UX Architect" },
   { name: "Devon Vance", role: "Senior Web3 Engineer" }
 ];
+
+// --- Team Showcase Component ---
+const TeamShowcase = () => {
+  return (
+    <section id="team" className="team-section" style={{ padding: '8rem 0' }}>
+      <div className="container">
+        <div className="section-header" style={{ textAlign: 'center', marginBottom: '4rem' }}>
+          <div className="badge">Creators</div>
+          <h2>Our Innovation Architects</h2>
+        </div>
+        <div className="team-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '2rem' }}>
+          {teamData.map((m, i) => (
+            <div key={i} className="team-card glass-panel" style={{ padding: '2rem', textAlign: 'center' }}>
+              <div className="team-avatar" style={{ width: '80px', height: '80px', borderRadius: '50%', background: 'linear-gradient(135deg, var(--accent-blue), var(--accent-purple))', margin: '0 auto 1.5rem' }}></div>
+              <h3 style={{ fontFamily: 'Outfit', fontSize: '1.4rem' }}>{m.name}</h3>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem' }}>{m.role}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
