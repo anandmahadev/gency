@@ -1485,3 +1485,9 @@ textarea.form-input {
 
 /* --- Neon Glassmorphism Borders --- */
 .glass-panel { border: 1px solid rgba(0, 240, 255, 0.15); box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3); }
+
+/* --- Glow Keyframe Pulsations --- */
+@keyframes glowPulse {
+  0%, 100% { opacity: 0.8; transform: scale(1); }
+  50% { opacity: 1.2; transform: scale(1.1); }
+}
