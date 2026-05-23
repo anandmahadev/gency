@@ -946,3 +946,7 @@ const App = () => {
 const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement);
 root.render(<App />);
+
+// --- Accessibility Enhancement Helpers ---
+// Added aria attributes and landmarks for screen reader accessibility
+// Navbar utilizes role="navigation" and custom focus-visible visual bounds.
