@@ -946,3 +946,10 @@ const App = () => {
 const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement);
 root.render(<App />);
+
+// --- FAQ Component Data Structure ---
+const faqData = [
+  { q: "What is your typical project timeline?", a: "Most design & engineering sprints take between 4 to 12 weeks depending on complexity." },
+  { q: "Do you offer post-launch support?", a: "Yes, we provide elite dedicated support SLA agreements for ongoing design & hosting maintenance." },
+  { q: "Can we integrate existing Web3 systems?", a: "Absolutely. We specialize in custom API hookups, Web3 wallets, and reactive metrics dashboards." }
+];
