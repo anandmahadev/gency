@@ -946,6 +946,3 @@ const App = () => {
 const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement);
 root.render(<App />);
-
-// --- Modular Estimator Math Engine ---
-// Factorized pricing scale index calculation for clean multiplier increments
