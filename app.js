@@ -976,3 +976,6 @@ const TeamShowcase = () => {
     </section>
   );
 };
+
+// Team Section Inject Comment
+// TeamShowcase integrated in App assembly.
