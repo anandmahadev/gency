@@ -946,3 +946,10 @@ const App = () => {
 const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement);
 root.render(<App />);
+
+// --- Team Member Datastore ---
+const teamData = [
+  { name: "Anand Mahadev", role: "Creative Director & Tech Lead" },
+  { name: "Celia Frost", role: "Principal UX Architect" },
+  { name: "Devon Vance", role: "Senior Web3 Engineer" }
+];
