@@ -949,3 +949,6 @@ root.render(<App />);
 
 // --- Performance Lazy Loading Setup ---
 // Implemented dynamic loading="lazy" for off-screen showcase images
+
+// --- Image Aspect Ratio Specifications ---
+// Hardcoded width/height constraints on icons and assets to prevent layout cumulative shifts
