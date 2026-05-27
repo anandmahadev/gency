@@ -59,3 +59,7 @@ Primary offerings are mapped dynamically from static Javascript array arrays, en
 ## 15. Real-Time Pricing Math
 The project planner runs math algorithms scaling estimates based on custom scale inputs and complexity sliders.
 
+
+## 16. Form Validation Logic
+Client input details are verified dynamically inside React, alerting prospective clients to incomplete subject or subject scopes.
+
