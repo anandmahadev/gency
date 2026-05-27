@@ -71,3 +71,7 @@ Integrates interactive FAQ accordion selectors, using clean React state paramete
 ## 18. ARIA Landmarks & Accessibility
 Equips components with appropriate ARIA semantic tags, roles, and focus selectors, ensuring seamless support for assistive screen readers.
 
+
+## 19. MIT License Parameters
+Releases the digital design codebase under standard open-source MIT terms, allowing broad development customization and usage.
+
