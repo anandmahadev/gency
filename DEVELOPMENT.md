@@ -47,3 +47,7 @@ OpenGraph metadata properties are configured inside the header structure, enhanc
 ## 12. Active Scroll Logic
 The Navigation component hooks directly into standard browser window scrolling, modifying visual class states on scroll thresholds.
 
+
+## 13. Theme Selection State
+Color theme selection (light or dark mode) is written directly to the document root element, enabling robust global CSS color matching.
+
