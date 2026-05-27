@@ -67,3 +67,7 @@ Client input details are verified dynamically inside React, alerting prospective
 ## 17. Toast Stack Frameworks
 Notifications utilize dynamic react arrays, pushing elements onto a visible stack and fading them out after timeouts.
 
+
+## 18. Navbar Scroll Highlights
+As visitors navigate page sections, scroll intersection math highlights corresponding navigation headers dynamically.
+
