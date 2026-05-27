@@ -31,3 +31,7 @@ The project budget calculator is powered by a real-time reactive mathematical al
 ## 8. Cost Estimator Multi-Tier Budgets
 Allows prospective clients to toggle service scopes dynamically, modifying pricing estimates with precise calculations for different organization scales.
 
+
+## 9. Cost Estimator Urgency Formulas
+Integrates scheduling math that dynamically adjusts estimated weeks and cost coefficients according to standard or express timeline expectations.
+
