@@ -31,3 +31,7 @@ Color tokens are declared at the `:root` selector level, featuring premium dark 
 ## 8. React CDN Deliveries
 For maximum load speeds and direct execution, React v18 is imported via high-availability content delivery networks, bypassing large bundler steps.
 
+
+## 9. Babel Standalone Compiler
+JSX components are compiled in real-time within the client browser using Babel Standalone, optimizing developer speed during iterations.
+
