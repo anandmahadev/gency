@@ -15,3 +15,7 @@ Designed with animated purple and cyan radial gradient glow meshes in the backgr
 ## 4. SVG Icon Components
 Fully lightweight, inline SVG icons wrapped directly as React functional components, eliminating heavy third-party dependency bundles and keeping page load speeds high.
 
+
+## 5. Responsive Services Grid
+A clean, grid-aligned viewport section organizing the agency's primary architectural offerings, ensuring elegant responsive scaling across standard mobile viewports.
+
