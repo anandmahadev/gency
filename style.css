@@ -1478,7 +1478,4 @@ textarea.form-input {
     text-align: center;
   }
 }
-
-/* --- Custom Text Selection --- */
-::selection { background: rgba(0, 240, 255, 0.25); color: var(--accent-cyan); }
-::-moz-selection { background: rgba(0, 240, 255, 0.25); color: var(--accent-cyan); }
+=
