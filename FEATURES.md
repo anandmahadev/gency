@@ -11,3 +11,7 @@ The header contains a fully responsive, sticky navigation component that dynamic
 ## 3. Hero Mesh Background Grid
 Designed with animated purple and cyan radial gradient glow meshes in the background, utilizing hardware-accelerated rendering configurations for smooth browser presentation.
 
+
+## 4. SVG Icon Components
+Fully lightweight, inline SVG icons wrapped directly as React functional components, eliminating heavy third-party dependency bundles and keeping page load speeds high.
+
