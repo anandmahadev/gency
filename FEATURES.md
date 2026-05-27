@@ -67,3 +67,7 @@ Implements an infinite horizontal marquee layout that auto-slides logo images sm
 ## 17. Accordion FAQ Logic
 Integrates interactive FAQ accordion selectors, using clean React state parameters to control content expansion height.
 
+
+## 18. ARIA Landmarks & Accessibility
+Equips components with appropriate ARIA semantic tags, roles, and focus selectors, ensuring seamless support for assistive screen readers.
+
