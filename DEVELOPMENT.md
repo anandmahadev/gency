@@ -43,3 +43,7 @@ Responsive meta tags are embedded within the header, guaranteeing seamless stand
 ## 11. Social Search Optimizations
 OpenGraph metadata properties are configured inside the header structure, enhancing dynamic image previewing on major social ecosystems.
 
+
+## 12. Active Scroll Logic
+The Navigation component hooks directly into standard browser window scrolling, modifying visual class states on scroll thresholds.
+
