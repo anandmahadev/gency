@@ -23,3 +23,7 @@ A clean, grid-aligned viewport section organizing the agency's primary architect
 ## 6. Interactive Portfolio Selector
 A fully interactive portfolio filter allowing visitors to instantly toggle between design, development, and Web3 project highlights via state-driven CSS transitions.
 
+
+## 7. Cost Estimator Tier Algorithm
+The project budget calculator is powered by a real-time reactive mathematical algorithm scaling investment projections based on select services.
+
