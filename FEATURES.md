@@ -35,3 +35,7 @@ Allows prospective clients to toggle service scopes dynamically, modifying prici
 ## 9. Cost Estimator Urgency Formulas
 Integrates scheduling math that dynamically adjusts estimated weeks and cost coefficients according to standard or express timeline expectations.
 
+
+## 10. Contact Form Validation
+Real-time, state-driven front-end validation rules checking work email formats, text input boundaries, and required selections prior to submission.
+
