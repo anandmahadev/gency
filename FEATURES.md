@@ -51,3 +51,7 @@ Overrides default browser scrolling aesthetics with highly customized, linear-gr
 ## 13. Text Selection Highlight Aesthetics
 Tailors standard browser selection styling (`::selection`) to use custom glowing purple and cyan highlighting matching Aether's visual identity.
 
+
+## 14. DNS Font Preloads
+Configures key `<link rel="preconnect">` declarations within the HTML header to prefetch domain queries, minimizing typography rendering lag.
+
