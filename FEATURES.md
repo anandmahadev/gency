@@ -59,3 +59,7 @@ Configures key `<link rel="preconnect">` declarations within the HTML header to 
 ## 15. Keyframe Glow Pulsing Animations
 Adds custom CSS `@keyframes` simulating pulsing glowing meshes in background sections to keep visual presentation active.
 
+
+## 16. Marquee Client Logo Slider
+Implements an infinite horizontal marquee layout that auto-slides logo images smoothly, pausing transition flows gracefully when a cursor hovers.
+
