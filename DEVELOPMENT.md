@@ -19,3 +19,7 @@ The repository is modularized into core assets, styles, and Javascript logic dir
 ## 5. Main Entry Points
 The app is served via `index.html` referencing `app.js` and `style.css`. Keeping files unified simplifies static deployment processes.
 
+
+## 6. Style Imports & Variables
+Styles are configured inside a single cohesive `style.css` file. Global variables define color customizability and animations.
+
