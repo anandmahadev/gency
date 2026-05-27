@@ -11,3 +11,7 @@ Aether Studio utilizes a lightweight stack. If migrating to Node.js environments
 ## 3. Local Server Execution
 Run a local static server or Live Server inside the workspace. This delivers instant, real-time feedback on layout changes, scripts, and typography scaling.
 
+
+## 4. Architecture Folder Structure
+The repository is modularized into core assets, styles, and Javascript logic directories, streamlining file navigation and component separation.
+
