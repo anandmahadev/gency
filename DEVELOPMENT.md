@@ -51,3 +51,7 @@ The Navigation component hooks directly into standard browser window scrolling, 
 ## 13. Theme Selection State
 Color theme selection (light or dark mode) is written directly to the document root element, enabling robust global CSS color matching.
 
+
+## 14. Dynamic Service Lists
+Primary offerings are mapped dynamically from static Javascript array arrays, ensuring easy content maintenance and high render speeds.
+
