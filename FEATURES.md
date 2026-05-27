@@ -19,3 +19,7 @@ Fully lightweight, inline SVG icons wrapped directly as React functional compone
 ## 5. Responsive Services Grid
 A clean, grid-aligned viewport section organizing the agency's primary architectural offerings, ensuring elegant responsive scaling across standard mobile viewports.
 
+
+## 6. Interactive Portfolio Selector
+A fully interactive portfolio filter allowing visitors to instantly toggle between design, development, and Web3 project highlights via state-driven CSS transitions.
+
