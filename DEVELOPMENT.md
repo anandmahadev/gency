@@ -27,3 +27,7 @@ Styles are configured inside a single cohesive `style.css` file. Global variable
 ## 7. Global Design System Tokens
 Color tokens are declared at the `:root` selector level, featuring premium dark mode colors such as high-contrast purple, slate, and cyan.
 
+
+## 8. React CDN Deliveries
+For maximum load speeds and direct execution, React v18 is imported via high-availability content delivery networks, bypassing large bundler steps.
+
