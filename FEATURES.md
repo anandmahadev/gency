@@ -75,3 +75,7 @@ Equips components with appropriate ARIA semantic tags, roles, and focus selector
 ## 19. MIT License Parameters
 Releases the digital design codebase under standard open-source MIT terms, allowing broad development customization and usage.
 
+
+## 20. Contributing Guidelines
+Outlines community development contributions, standardizing branch naming guidelines and Code of Conduct structures for open collaborations.
+
