@@ -23,3 +23,7 @@ The app is served via `index.html` referencing `app.js` and `style.css`. Keeping
 ## 6. Style Imports & Variables
 Styles are configured inside a single cohesive `style.css` file. Global variables define color customizability and animations.
 
+
+## 7. Global Design System Tokens
+Color tokens are declared at the `:root` selector level, featuring premium dark mode colors such as high-contrast purple, slate, and cyan.
+
