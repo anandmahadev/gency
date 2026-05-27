@@ -15,3 +15,7 @@ Run a local static server or Live Server inside the workspace. This delivers ins
 ## 4. Architecture Folder Structure
 The repository is modularized into core assets, styles, and Javascript logic directories, streamlining file navigation and component separation.
 
+
+## 5. Main Entry Points
+The app is served via `index.html` referencing `app.js` and `style.css`. Keeping files unified simplifies static deployment processes.
+
