@@ -75,3 +75,7 @@ As visitors navigate page sections, scroll intersection math highlights correspo
 ## 19. Interactive CTA Hover Effects
 Primary CTA buttons feature keyframe glow transitions, scaling smoothly on hover vectors to maximize visitor clicks.
 
+
+## 20. Technical Guideline Rules
+Developers should prioritize component purity, accessible navigation structures, lightweight SVG icon packs, and zero-shift layout configurations.
+
