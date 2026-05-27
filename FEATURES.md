@@ -47,3 +47,7 @@ Features elegant, non-blocking toast notifications that fade into the viewport o
 ## 12. Linear-gradient Scrollbar Styles
 Overrides default browser scrolling aesthetics with highly customized, linear-gradient scrollbars that blend perfectly with the dark UI layout.
 
+
+## 13. Text Selection Highlight Aesthetics
+Tailors standard browser selection styling (`::selection`) to use custom glowing purple and cyan highlighting matching Aether's visual identity.
+
