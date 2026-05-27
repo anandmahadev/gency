@@ -63,3 +63,7 @@ The project planner runs math algorithms scaling estimates based on custom scale
 ## 16. Form Validation Logic
 Client input details are verified dynamically inside React, alerting prospective clients to incomplete subject or subject scopes.
 
+
+## 17. Toast Stack Frameworks
+Notifications utilize dynamic react arrays, pushing elements onto a visible stack and fading them out after timeouts.
+
