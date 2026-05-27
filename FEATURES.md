@@ -63,3 +63,7 @@ Adds custom CSS `@keyframes` simulating pulsing glowing meshes in background sec
 ## 16. Marquee Client Logo Slider
 Implements an infinite horizontal marquee layout that auto-slides logo images smoothly, pausing transition flows gracefully when a cursor hovers.
 
+
+## 17. Accordion FAQ Logic
+Integrates interactive FAQ accordion selectors, using clean React state parameters to control content expansion height.
+
