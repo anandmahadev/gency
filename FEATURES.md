@@ -27,3 +27,7 @@ A fully interactive portfolio filter allowing visitors to instantly toggle betwe
 ## 7. Cost Estimator Tier Algorithm
 The project budget calculator is powered by a real-time reactive mathematical algorithm scaling investment projections based on select services.
 
+
+## 8. Cost Estimator Multi-Tier Budgets
+Allows prospective clients to toggle service scopes dynamically, modifying pricing estimates with precise calculations for different organization scales.
+
