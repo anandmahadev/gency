@@ -43,3 +43,7 @@ Real-time, state-driven front-end validation rules checking work email formats, 
 ## 11. Toast Notification System
 Features elegant, non-blocking toast notifications that fade into the viewport on successful submissions and automatically clear after a 5-second interval.
 
+
+## 12. Linear-gradient Scrollbar Styles
+Overrides default browser scrolling aesthetics with highly customized, linear-gradient scrollbars that blend perfectly with the dark UI layout.
+
