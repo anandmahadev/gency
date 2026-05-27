@@ -55,3 +55,7 @@ Tailors standard browser selection styling (`::selection`) to use custom glowing
 ## 14. DNS Font Preloads
 Configures key `<link rel="preconnect">` declarations within the HTML header to prefetch domain queries, minimizing typography rendering lag.
 
+
+## 15. Keyframe Glow Pulsing Animations
+Adds custom CSS `@keyframes` simulating pulsing glowing meshes in background sections to keep visual presentation active.
+
