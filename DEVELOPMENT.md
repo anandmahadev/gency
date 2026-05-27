@@ -55,3 +55,7 @@ Color theme selection (light or dark mode) is written directly to the document r
 ## 14. Dynamic Service Lists
 Primary offerings are mapped dynamically from static Javascript array arrays, ensuring easy content maintenance and high render speeds.
 
+
+## 15. Real-Time Pricing Math
+The project planner runs math algorithms scaling estimates based on custom scale inputs and complexity sliders.
+
