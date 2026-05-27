@@ -947,5 +947,3 @@ const rootElement = document.getElementById('root');
 const root = ReactDOM.createRoot(rootElement);
 root.render(<App />);
 
-// --- SVG Optimization Specs ---
-// Cleansed path vectors, stripped redundant Adobe/Sketch attributes for light rendering
